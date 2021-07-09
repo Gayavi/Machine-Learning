@@ -1,1 +1,1 @@
-# Using-SVM-with-kernels
+# Using Linear Regression and SVM with kernels
